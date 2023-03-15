@@ -1,6 +1,6 @@
-#Jenna's SQL portfolio
+# Jenna's SQL portfolio
 
-##*Welcome to my SQL portfolio! This code repository contains examples of SQL I've written. Here in my GitHub I included below:*
+## *Welcome to my SQL portfolio! This code repository contains examples of SQL I've written. Here in my GitHub I included below:*
 
 1. A database schema design project that showcases my skills in data modeling and schema development.
 2. A data manipulation project that demonstrates my expertise in querying, filtering, and joining data from multiple tables.
